@@ -6,7 +6,7 @@ This is an impelemntation of NN Using Keras for electricity consumption predicti
 * Min-Max normalization
 * replacing missing values with 
 
-Te r2-score achived by the model: 
+**The r2-score achived by the model: 96%** 
 
 --------------------------------
 ![loss](https://user-images.githubusercontent.com/62679750/122396657-98081f80-cf4e-11eb-826e-1d8d999b45aa.png)
