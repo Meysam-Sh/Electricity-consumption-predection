@@ -2,7 +2,7 @@ This is an impelemntation of NN Using Keras for electricity consumption predicti
 
 * encoding the categorial variables 
 * removing variables if more than 95% of them are 0 or -2
-* removong variables with a constant vaule
+* removing variables with a constant vaule
 * Min-Max normalization
 * replacing missing values od a feature with its mean  
 
